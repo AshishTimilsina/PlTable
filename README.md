@@ -1,16 +1,2 @@
-# pltable
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (2)](https://github.com/AshishTimilsina/PlTable/assets/86145619/dfef2a16-1cbd-41cc-9b4c-ae6a514db85d)
+![Screenshot (3)](https://github.com/AshishTimilsina/PlTable/assets/86145619/1cc54b9b-5221-4841-b25e-0bb0ea6b0941)
